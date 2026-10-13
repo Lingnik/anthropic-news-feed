@@ -2,7 +2,7 @@
 
 An unofficial RSS feed of https://www.anthropic.com/news, which publishes no feed of its own.
 
-Feed URL: https://lingnik.github.io/anthropic-news-feed/feed.xml
+Feed URL: https://lingnik.com/anthropic-news-feed/feed.xml
 
 ## How it works
 - A GitHub Action runs `feed.py` every hour at :17.
