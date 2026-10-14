@@ -1403,6 +1403,12 @@
   "published": "2026-06-03T13:00:00.000Z",
   "title": "Claude Partner Network Services Track and Partner Hub"
  },
+ "https://www.anthropic.com/news/singapore-office-opening": {
+  "description": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+  "first_seen": "2026-10-14T09:29:50.866621+00:00",
+  "published": "2026-10-14T08:30:00.000Z",
+  "title": "Singapore office and government MOU | Anthropic"
+ },
  "https://www.anthropic.com/news/skills": {
   "description": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
   "first_seen": "2026-10-13T19:38:22.953414+00:00",

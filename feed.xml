@@ -3,7 +3,14 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap. Unofficial.</description>
-<lastBuildDate>Thu, 08 Oct 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Singapore office and government MOU | Anthropic</title>
+<link>https://www.anthropic.com/news/singapore-office-opening</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
+<pubDate>Wed, 14 Oct 2026 08:30:00 +0000</pubDate>
+<description>Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.</description>
+</item>
 <item>
 <title>2026 Usage Policy update</title>
 <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
@@ -346,12 +353,5 @@
 <guid isPermaLink="true">https://www.anthropic.com/news/series-h</guid>
 <pubDate>Thu, 28 May 2026 17:13:20 +0000</pubDate>
 <description>Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.</description>
-</item>
-<item>
-<title>Introducing Claude Opus 4.8</title>
-<link>https://www.anthropic.com/news/claude-opus-4-8</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-8</guid>
-<pubDate>Thu, 28 May 2026 17:00:00 +0000</pubDate>
-<description>Claude Opus 4.8 brings stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</description>
 </item>
 </channel></rss>
