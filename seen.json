@@ -5,6 +5,12 @@
   "published": "2023-05-11T07:00:00.000Z",
   "title": "Introducing 100K context windows"
  },
+ "https://www.anthropic.com/news/2026-us-midterms": {
+  "description": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we\u2019ve continued to strengthen these safeguards ahead of this year\u2019s US midterms.",
+  "first_seen": "2026-10-14T20:25:31.288452+00:00",
+  "published": "2026-10-14T18:33:00.000Z",
+  "title": "Preparing for the 2026 US midterms"
+ },
  "https://www.anthropic.com/news/2026-usage-policy-update": {
   "description": "We\u2019re publishing a new version of our Usage Policy. In this post, we summarize the changes we\u2019ve made.",
   "first_seen": "2026-10-13T19:38:22.953414+00:00",
