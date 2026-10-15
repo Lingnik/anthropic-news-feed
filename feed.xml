@@ -3,7 +3,14 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap. Unofficial.</description>
-<lastBuildDate>Wed, 14 Oct 2026 18:33:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:20:00 +0000</lastBuildDate>
+<item>
+<title>Anthropic update on independent evaluators</title>
+<link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+<pubDate>Thu, 15 Oct 2026 17:20:00 +0000</pubDate>
+<description>Anthropic announces updates to embedding independent evaluators</description>
+</item>
 <item>
 <title>Preparing for the 2026 US midterms</title>
 <link>https://www.anthropic.com/news/2026-us-midterms</link>
@@ -346,12 +353,5 @@
 <guid isPermaLink="true">https://www.anthropic.com/news/expanding-project-glasswing</guid>
 <pubDate>Tue, 02 Jun 2026 11:00:00 +0000</pubDate>
 <description>We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries</description>
-</item>
-<item>
-<title>Anthropic confidentially submits draft S-1</title>
-<link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
-<pubDate>Mon, 01 Jun 2026 16:00:00 +0000</pubDate>
-<description>Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission</description>
 </item>
 </channel></rss>

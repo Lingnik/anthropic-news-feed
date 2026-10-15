@@ -101,6 +101,12 @@
   "published": "2023-04-20T07:00:00.000Z",
   "title": "An AI policy tool for today: Invest in NIST"
  },
+ "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
+  "description": "Anthropic announces updates to embedding independent evaluators",
+  "first_seen": "2026-10-15T17:24:03.840428+00:00",
+  "published": "2026-10-15T17:20:00.000Z",
+  "title": "Anthropic update on independent evaluators"
+ },
  "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
   "description": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems.",
   "first_seen": "2026-10-13T19:38:22.953414+00:00",
