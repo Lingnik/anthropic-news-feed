@@ -3,7 +3,14 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap. Unofficial.</description>
-<lastBuildDate>Thu, 15 Oct 2026 17:20:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 16:49:35 +0000</lastBuildDate>
+<item>
+<title>Investing in the public benefit</title>
+<link>https://www.anthropic.com/news/public-benefit-fund</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+<pubDate>Sun, 18 Oct 2026 16:49:35 +0000</pubDate>
+<description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
+</item>
 <item>
 <title>Anthropic update on independent evaluators</title>
 <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
@@ -346,12 +353,5 @@
 <guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
 <pubDate>Wed, 03 Jun 2026 10:55:00 +0000</pubDate>
 <description>As AI changes how cyberattacks happen, how well do the security community's frameworks hold up? A new report maps attacks onto MITRE ATT&amp;CK.</description>
-</item>
-<item>
-<title>Expanding Project Glasswing</title>
-<link>https://www.anthropic.com/news/expanding-project-glasswing</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/expanding-project-glasswing</guid>
-<pubDate>Tue, 02 Jun 2026 11:00:00 +0000</pubDate>
-<description>We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries</description>
 </item>
 </channel></rss>
