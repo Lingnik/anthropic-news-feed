@@ -3,7 +3,63 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap. Unofficial.</description>
-<lastBuildDate>Sun, 18 Oct 2026 16:49:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 17:26:10 +0000</lastBuildDate>
+<item>
+<title>Announcements</title>
+<link>https://www.anthropic.com/news/announcements</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/announcements</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
+<item>
+<title>Features</title>
+<link>https://www.anthropic.com/news/features</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/features</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
+<item>
+<title>Models</title>
+<link>https://www.anthropic.com/news/models</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/models</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
+<item>
+<title>Partnerships</title>
+<link>https://www.anthropic.com/news/partnerships</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/partnerships</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
+<item>
+<title>Policy</title>
+<link>https://www.anthropic.com/news/policy</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/policy</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
+<item>
+<title>Product</title>
+<link>https://www.anthropic.com/news/product</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/product</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
+<item>
+<title>Safeguards</title>
+<link>https://www.anthropic.com/news/safeguards</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/safeguards</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
+<item>
+<title>Security</title>
+<link>https://www.anthropic.com/news/security</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/security</guid>
+<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
 <item>
 <title>Investing in the public benefit</title>
 <link>https://www.anthropic.com/news/public-benefit-fund</link>
@@ -31,6 +87,13 @@
 <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
 <pubDate>Wed, 14 Oct 2026 08:30:00 +0000</pubDate>
 <description>Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.</description>
+</item>
+<item>
+<title>Strengthening our defenses against distillation attacks</title>
+<link>https://www.anthropic.com/news/distillation-defenses</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<description>Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.</description>
 </item>
 <item>
 <title>2026 Usage Policy update</title>
@@ -290,68 +353,5 @@
 <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
 <pubDate>Tue, 23 Jun 2026 14:00:00 +0000</pubDate>
 <description>Claude Tag is a new way for teams to work with Claude.</description>
-</item>
-<item>
-<title>Anthropic opens Seoul office</title>
-<link>https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</guid>
-<pubDate>Wed, 17 Jun 2026 19:34:00 +0000</pubDate>
-<description>Anthropic opens in Seoul and announces new partnerships across the Korean AI ecosystem.</description>
-</item>
-<item>
-<title>Statement on the directive to suspend Fable 5 access</title>
-<link>https://www.anthropic.com/news/fable-mythos-access</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
-<pubDate>Fri, 12 Jun 2026 23:38:00 +0000</pubDate>
-<description>The US government has issued an export control directive suspending all access to Fable 5 and Mythos 5 by foreign nationals inside or outside the US.</description>
-</item>
-<item>
-<title>Results from first Anthropic Public Record</title>
-<link>https://www.anthropic.com/news/anthropic-public-record</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
-<pubDate>Fri, 12 Jun 2026 21:51:00 +0000</pubDate>
-<description>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</description>
-</item>
-<item>
-<title>TCS brings Claude to regulated industries</title>
-<link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
-<pubDate>Fri, 12 Jun 2026 18:00:00 +0000</pubDate>
-<description>TCS will provide Claude to 50,000 employees across 56 countries, build Claude-powered products for regulated industries, and join our partner network.</description>
-</item>
-<item>
-<title>DXC integrates Claude for regulated industries</title>
-<link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
-<pubDate>Thu, 11 Jun 2026 18:00:00 +0000</pubDate>
-<description>Anthropic is announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
-</item>
-<item>
-<title>Introducing Claude Corps</title>
-<link>https://www.anthropic.com/news/claude-corps</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
-<pubDate>Thu, 11 Jun 2026 13:00:00 +0000</pubDate>
-<description>Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America.</description>
-</item>
-<item>
-<title>Claude Fable 5 and Claude Mythos 5</title>
-<link>https://www.anthropic.com/news/claude-fable-5-mythos-5</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
-<pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
-<description>Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.</description>
-</item>
-<item>
-<title>Claude Partner Network Services Track and Partner Hub</title>
-<link>https://www.anthropic.com/news/services-track-partner-hub</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/services-track-partner-hub</guid>
-<pubDate>Wed, 03 Jun 2026 13:00:00 +0000</pubDate>
-<description>Two new components of the Claude Partner Network make it easier for enterprises to find the firms that help put Claude into production.</description>
-</item>
-<item>
-<title>Mapping AI-enabled cyber threats</title>
-<link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
-<pubDate>Wed, 03 Jun 2026 10:55:00 +0000</pubDate>
-<description>As AI changes how cyberattacks happen, how well do the security community's frameworks hold up? A new report maps attacks onto MITRE ATT&amp;CK.</description>
 </item>
 </channel></rss>
