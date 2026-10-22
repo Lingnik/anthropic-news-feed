@@ -839,6 +839,12 @@
   "published": "2026-02-12T11:45:00.000Z",
   "title": "Anthropic is donating $20 million to Public First Action"
  },
+ "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+  "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "first_seen": "2026-10-22T18:30:24.493376+00:00",
+  "published": "2026-10-22T00:00:00.000Z",
+  "title": "Donating Agent Skills to the Agentic AI Foundation"
+ },
  "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation": {
   "description": "Anthropic is donating the Model Context Protocol to the Linux Foundation's new Agentic AI Foundation, co-founded with Block and OpenAI.",
   "first_seen": "2026-10-13T19:38:22.953414+00:00",
