@@ -3,7 +3,14 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap. Unofficial.</description>
-<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
+<link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+</item>
 <item>
 <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
 <link>https://www.anthropic.com/news/s1-sec</link>
@@ -346,12 +353,5 @@
 <guid isPermaLink="true">https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
 <pubDate>Mon, 06 Jul 2026 16:00:00 +0000</pubDate>
 <description>The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.</description>
-</item>
-<item>
-<title>Fable 5's cyber safeguards and our jailbreak framework</title>
-<link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
-<pubDate>Thu, 02 Jul 2026 21:07:00 +0000</pubDate>
-<description>What is and isn't blocked by our cyber classifiers, and a first draft of our jailbreak severity framework</description>
 </item>
 </channel></rss>
