@@ -1469,6 +1469,12 @@
   "published": "2026-02-24T14:59:00.000Z",
   "title": "Responsible Scaling Policy Version 3.0"
  },
+ "https://www.anthropic.com/news/roadshow-launch": {
+  "description": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+  "first_seen": "2026-11-10T13:18:46.265064+00:00",
+  "published": "2026-11-10T00:00:00.000Z",
+  "title": "Anthropic launches roadshow for proposed initial public offering"
+ },
  "https://www.anthropic.com/news/rwandan-government-partnership-ai-education": {
   "description": "A Claude-based learning companion reaches Rwandan teachers and 200,000+ ALX students across Africa.",
   "first_seen": "2026-10-13T19:38:22.953414+00:00",
