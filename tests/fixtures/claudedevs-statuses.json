@@ -1,0 +1,292 @@
+{
+ "code": 200,
+ "results": [
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2120275296637321476",
+   "id": "2120275296637321476",
+   "text": "We've given all Pro, Max, Ultra, and Team users one free full reset, across all models and limits. Use it anytime before December 10 at 2:00PM PT.\n\nWe recently fixed a few small issues that used more limits than intended, and the Fable resets didn't do much for those of you who'd already hit your weekly limits for all models. While these issues didn't affect everyone, we want to make up for the trouble.\n\nYou'll find it in Settings > Usage, or at http://clau.de/reset.",
+   "created_at": "Tue Nov 10 21:59:58 +0000 2026",
+   "created_timestamp": 1794347998,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2120227979041341943",
+   "id": "2120227979041341943",
+   "text": "Claude now supports more of the MCP Apps extension, such as app tools and embedded sites, so your full app can run inside Claude.\n\nStart building: https://claude.com/docs/connectors/building/mcp-apps/getting-started",
+   "created_at": "Tue Nov 10 18:51:56 +0000 2026",
+   "created_timestamp": 1794336716,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2120227981855777049",
+   "id": "2120227981855777049",
+   "text": "And because your MCP App ships with your MCP server, it isn’t limited to Claude. It can run in any AI application that supports the extension.",
+   "created_at": "Tue Nov 10 18:51:57 +0000 2026",
+   "created_timestamp": 1794336717,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2120227980672901180",
+    "url": "https://x.com/ClaudeDevs/status/2120227980672901180",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2120227982921097388",
+   "id": "2120227982921097388",
+   "text": "These capabilities are rolling out in public preview. Implementation details may change as we work with the MCP Apps community to standardize them.\n\nGet started: https://claude.com/docs/connectors/building/mcp-apps/getting-started",
+   "created_at": "Tue Nov 10 18:51:57 +0000 2026",
+   "created_timestamp": 1794336717,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2120227981855777049",
+    "url": "https://x.com/ClaudeDevs/status/2120227981855777049",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2119898687803621427",
+   "id": "2119898687803621427",
+   "text": "Which Claude model should you build with? \n\nOur new guide breaks down when to use Fable 5.2, Opus 5.5, Sonnet or Haiku. It also covers when to adjust effort instead of switching models, and how to save cost by putting subagents on smaller models.\n\nhttps://claude.dev/blog/which-claude-model-should-you-build-with",
+   "created_at": "Mon Nov 09 21:03:27 +0000 2026",
+   "created_timestamp": 1794258207,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2119868698613956992",
+   "id": "2119868698613956992",
+   "text": "Fable 5.2 is now available in the Claude Platform and Claude Code. \n\nIt’s up to 30% faster than Fable 5.1, and costs $8/$40 per 1M tokens, down from $10/$50.",
+   "created_at": "Mon Nov 09 19:04:17 +0000 2026",
+   "created_timestamp": 1794251057,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2119868703265419688",
+   "id": "2119868703265419688",
+   "text": "To help prevent distillation, preserved thinking now covers all API accounts on Fable 5.2.\n\nEditing prior context can 400. Use compaction, context editing, or mid-conversation system messages. Claude Code, Managed Agents & Agent SDK handle this for you.\n\nhttps://platform.claude.com/docs/build-with-claude/preserved-thinking",
+   "created_at": "Mon Nov 09 19:04:18 +0000 2026",
+   "created_timestamp": 1794251058,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2119868701994570178",
+    "url": "https://x.com/ClaudeDevs/status/2119868701994570178",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2119868704544711108",
+   "id": "2119868704544711108",
+   "text": "We're giving Ultra and Team Premium users Fable resets based on how long you've subscribed:\n\n<6 mo: 1\n6–12 mo: 2\n>12 mo: 3\n\nUse them anytime by March 8.\n\nPro and Team Standard get a week to try Fable 5.2, up to half your weekly limit, plus one reset. https://support.claude.com/en/articles/17506494",
+   "created_at": "Mon Nov 09 19:04:19 +0000 2026",
+   "created_timestamp": 1794251059,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2119868703265419688",
+    "url": "https://x.com/ClaudeDevs/status/2119868703265419688",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2118795192090386454",
+   "id": "2118795192090386454",
+   "text": "We've made it easier to get your repo running in Claude Code cloud sessions on Pro, Max, and Ultra.\n\nClaude figures out what dependencies, network access, and API keys it needs, then saves the environment for next time. API keys are saved securely, so Claude never sees them.",
+   "created_at": "Fri Nov 06 19:58:33 +0000 2026",
+   "created_timestamp": 1793995113,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2118063143167693011",
+   "id": "2118063143167693011",
+   "text": "Background subagents in Claude Code now use less of your usage limit.\n\nA running subagent updates its status line every 30 seconds, and each update used to re-read its whole conversation. Now Haiku 5.5 writes it from short notes instead, so each update costs about 99% less.",
+   "created_at": "Wed Nov 04 19:29:39 +0000 2026",
+   "created_timestamp": 1793820579,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2118063144572772627",
+   "id": "2118063144572772627",
+   "text": "The subagent itself keeps its own model. Sessions with background subagents used about 5% less of the limit, so the same limit gets you about 6% more prompts.\n\nIt's live for most Pro, Max and Ultra users and for everyone on Team and Enterprise. Update to v2.1.316+.",
+   "created_at": "Wed Nov 04 19:29:40 +0000 2026",
+   "created_timestamp": 1793820580,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2118063143167693011",
+    "url": "https://x.com/ClaudeDevs/status/2118063143167693011",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2117680635561312732",
+   "id": "2117680635561312732",
+   "text": "Users can now auto-connect plugins when they log in to Claude, with MCP servers that accept Claude as a trusted issuer.\n\nIf you’re building plugins for Claude, add support so users get started faster and stay connected without re-authorizing.",
+   "created_at": "Tue Nov 03 18:09:42 +0000 2026",
+   "created_timestamp": 1793729382,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2117680642217439399",
+   "id": "2117680642217439399",
+   "text": "Auto-connect with Claude as the trusted issuer is in beta on Team and Enterprise plans. Available with Amplitude, https://Apollo.io, Atlassian, Datadog, Dropbox, Figma, Granola, HubSpot, Linear, Mixpanel, Notion, PagerDuty, Semrush, and Supabase.",
+   "created_at": "Tue Nov 03 18:09:44 +0000 2026",
+   "created_timestamp": 1793729384,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2117680640925794738",
+    "url": "https://x.com/ClaudeDevs/status/2117680640925794738",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2117680644230955320",
+   "id": "2117680644230955320",
+   "text": "If you’re building plugins for Claude, you can add support today: \n\nhttps://claude.com/docs/connectors/building/enterprise-managed-auth",
+   "created_at": "Tue Nov 03 18:09:44 +0000 2026",
+   "created_timestamp": 1793729384,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2117680642217439399",
+    "url": "https://x.com/ClaudeDevs/status/2117680642217439399",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2117670658113155075",
+   "id": "2117670658113155075",
+   "text": "October was a big month for Claude Code 🍁\n\nWe shipped mods, made the desktop app better at running lots of sessions side by side, gave you more insight into where your usage goes, and plenty more. Here's a recap!",
+   "created_at": "Tue Nov 03 17:30:03 +0000 2026",
+   "created_timestamp": 1793727003,
+   "replying_to": null,
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2117670664262009016",
+   "id": "2117670664262009016",
+   "text": "And a few smaller ones:\n\n- Cloud sessions now start setting up while you’re still typing your prompt, so there's less waiting after you hit send\n- You can click any line in a cloud session's diff and leave a comment, and it goes to Claude with your next message\n- Max, Ultra and Team plans now include a monthly API credit for building with the Claude API and Agent SDK\n- MCP servers that support it can ask you a follow-up question mid-task, and run long jobs in the background",
+   "created_at": "Tue Nov 03 17:30:05 +0000 2026",
+   "created_timestamp": 1793727005,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2117670662806675967",
+    "url": "https://x.com/ClaudeDevs/status/2117670662806675967",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  },
+  {
+   "type": "status",
+   "url": "https://x.com/ClaudeDevs/status/2117670665780363747",
+   "id": "2117670665780363747",
+   "text": "To see all that we shipped in October, make sure to check out the changelog. Looking forward to November!\n\nhttps://code.claude.com/docs/en/changelog",
+   "created_at": "Tue Nov 03 17:30:05 +0000 2026",
+   "created_timestamp": 1793727005,
+   "replying_to": {
+    "screen_name": "ClaudeDevs",
+    "status": "2117670664262009016",
+    "url": "https://x.com/ClaudeDevs/status/2117670664262009016",
+    "profile_url": "https://x.com/ClaudeDevs"
+   },
+   "reposted_by": null,
+   "author": {
+    "screen_name": "ClaudeDevs",
+    "id": "2024518793679294464"
+   }
+  }
+ ],
+ "cursor": {
+  "top": "DAAHCgABHW0CquuAJxELAAIAAAATMjEyMDI3NTI5NjYzNzMyMTQ3NggAAwAAAAEAAA",
+  "bottom": "DAAHCgABHW0Cqut___gLAAIAAAATMjExNzY3MDY2NTc4MDM2Mzc0NwgAAwAAAAIAAA"
+ }
+}
