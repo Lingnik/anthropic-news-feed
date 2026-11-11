@@ -1,5 +1,7 @@
 """Build an RSS feed of anthropic.com/news from the site's sitemap.
 
+Posts on X that x_feed.py keeps in x_seen.json are merged into the same feed.
+
 anthropic.com publishes no feed. The sitemap lists every /news/ post, so a
 post is new when its URL first appears there. Each new post's page is read
 once for its title, description and publish time; seen.json keeps them.
@@ -22,6 +24,7 @@ SITEMAP = "https://www.anthropic.com/sitemap.xml"
 NEWS = "https://www.anthropic.com/news/"
 HERE = Path(__file__).resolve().parent
 SEEN = HERE / "seen.json"
+X_SEEN = HERE / "x_seen.json"
 FEED = HERE / "feed.xml"
 MAX_ITEMS = 50
 MAX_FETCH = 400
@@ -78,8 +81,8 @@ def render(seen: dict, now: float) -> str:
            '<rss version="2.0"><channel>',
            "<title>Anthropic News</title>",
            f"<link>{NEWS}</link>",
-           "<description>Posts from anthropic.com/news, built from the site's sitemap. "
-           "Unofficial.</description>",
+           "<description>Posts from anthropic.com/news, built from the site's sitemap, "
+           "and from the X accounts in x-accounts.txt. Unofficial.</description>",
            f"<lastBuildDate>{email.utils.format_datetime(newest)}</lastBuildDate>"]
     for url, info in items:
         out += ["<item>",
@@ -110,7 +113,8 @@ def main() -> int:
     seen = json.loads(SEEN.read_text()) if SEEN.exists() else {}
     new = update(seen, news_urls(get(SITEMAP)), get, now)
     SEEN.write_text(json.dumps(seen, indent=1, sort_keys=True) + "\n")
-    FEED.write_text(render(seen, now))
+    x_items = json.loads(X_SEEN.read_text()).get("items", {}) if X_SEEN.exists() else {}
+    FEED.write_text(render({**seen, **x_items}, now))
     print(f"{new} new, {len(seen)} known")
     return 0
 
