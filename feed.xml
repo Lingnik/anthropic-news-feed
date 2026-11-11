@@ -2,7 +2,7 @@
 <rss version="2.0"><channel>
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
-<description>Posts from anthropic.com/news, built from the site's sitemap. Unofficial.</description>
+<description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
 <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
 <title>Anthropic launches roadshow for proposed initial public offering</title>
