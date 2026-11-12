@@ -1,8 +1,8 @@
 {
  "accounts": {
   "ClaudeDevs": {
-   "failures": 1,
-   "max_id": "2120938990518116578"
+   "failures": 0,
+   "max_id": "2120962482584101217"
   }
  },
  "items": {
@@ -19,6 +19,20 @@
    "first_seen": "2026-11-12T18:22:49.251110+00:00",
    "published": "2026-11-12T17:57:15+00:00",
    "title": "@ClaudeDevs: Use self-hosted Managed Agents for work that needs access to your code and internal systems, like f…"
+  },
+  "https://x.com/ClaudeDevs/status/2120962481225146636": {
+   "account": "ClaudeDevs",
+   "description": "New video: @dejno and @luccasiau discuss how we launch new models on our API and the features that ship with them.\n\nThey also dig into how to rethink your harness and measure cost per task when you upgrade to a new model.",
+   "first_seen": "2026-11-12T19:49:47.089957+00:00",
+   "published": "2026-11-12T19:30:35+00:00",
+   "title": "@ClaudeDevs: New video: @dejno and @luccasiau discuss how we launch new models on our API and the features that…"
+  },
+  "https://x.com/ClaudeDevs/status/2120962482584101217": {
+   "account": "ClaudeDevs",
+   "description": "Watch the full conversation:\nhttps://youtu.be/p2xvJAbF-i4",
+   "first_seen": "2026-11-12T19:49:47.089957+00:00",
+   "published": "2026-11-12T19:30:36+00:00",
+   "title": "@ClaudeDevs: Watch the full conversation:"
   }
  }
 }

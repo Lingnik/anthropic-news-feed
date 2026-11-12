@@ -3,7 +3,24 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Thu, 12 Nov 2026 17:57:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 19:30:36 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: Watch the full conversation:</title>
+<link>https://x.com/ClaudeDevs/status/2120962482584101217</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2120962482584101217</guid>
+<pubDate>Thu, 12 Nov 2026 19:30:36 +0000</pubDate>
+<description>Watch the full conversation:
+https://youtu.be/p2xvJAbF-i4</description>
+</item>
+<item>
+<title>@ClaudeDevs: New video: @dejno and @luccasiau discuss how we launch new models on our API and the features that…</title>
+<link>https://x.com/ClaudeDevs/status/2120962481225146636</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2120962481225146636</guid>
+<pubDate>Thu, 12 Nov 2026 19:30:35 +0000</pubDate>
+<description>New video: @dejno and @luccasiau discuss how we launch new models on our API and the features that ship with them.
+
+They also dig into how to rethink your harness and measure cost per task when you upgrade to a new model.</description>
+</item>
 <item>
 <title>@ClaudeDevs: Use self-hosted Managed Agents for work that needs access to your code and internal systems, like f…</title>
 <link>https://x.com/ClaudeDevs/status/2120938990518116578</link>
@@ -345,19 +362,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-teachers</guid>
 <pubDate>Tue, 14 Jul 2026 15:00:00 +0000</pubDate>
 <description>Verified US K-12 educators get free access to premium Claude capabilities, a teaching skills library, and standards-aligned curricula for all 50 states.</description>
-</item>
-<item>
-<title>Anthropic commits $10 million to Canadian AI research</title>
-<link>https://www.anthropic.com/news/canadian-ai-research</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/canadian-ai-research</guid>
-<pubDate>Tue, 14 Jul 2026 13:00:00 +0000</pubDate>
-<description>Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.</description>
-</item>
-<item>
-<title>UST is bringing Claude to physical AI</title>
-<link>https://www.anthropic.com/news/ust-claude</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
-<pubDate>Thu, 09 Jul 2026 23:55:00 +0000</pubDate>
-<description>UST will train 20,000 engineers on Claude and deploy it across semiconductor, automotive, IoT, healthcare, telecom, and banking workflows.</description>
 </item>
 </channel></rss>
