@@ -2,8 +2,23 @@
  "accounts": {
   "ClaudeDevs": {
    "failures": 0,
-   "max_id": "2120275296637321476"
+   "max_id": "2120938990518116578"
   }
  },
- "items": {}
+ "items": {
+  "https://x.com/ClaudeDevs/status/2120938988165091693": {
+   "account": "ClaudeDevs",
+   "description": "Self-hosted Claude Managed Agents is now in private beta.\n\nYou can host the agent harness, sandboxes, and session history, in your own cloud or on-premises, and choose where requests to Claude are sent.",
+   "first_seen": "2026-11-12T18:22:49.251110+00:00",
+   "published": "2026-11-12T17:57:14+00:00",
+   "title": "@ClaudeDevs: Self-hosted Claude Managed Agents is now in private beta."
+  },
+  "https://x.com/ClaudeDevs/status/2120938990518116578": {
+   "account": "ClaudeDevs",
+   "description": "Use self-hosted Managed Agents for work that needs access to your code and internal systems, like fixing broken builds or triaging alerts.\n\nThis private beta is only available to eligible orgs, and you can request access with your Anthropic account team.\n\nhttps://claude.com/resources/articles/self-hosted-claude-managed-agents",
+   "first_seen": "2026-11-12T18:22:49.251110+00:00",
+   "published": "2026-11-12T17:57:15+00:00",
+   "title": "@ClaudeDevs: Use self-hosted Managed Agents for work that needs access to your code and internal systems, like f…"
+  }
+ }
 }

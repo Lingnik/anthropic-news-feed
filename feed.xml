@@ -3,7 +3,27 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 17:57:15 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: Use self-hosted Managed Agents for work that needs access to your code and internal systems, like f…</title>
+<link>https://x.com/ClaudeDevs/status/2120938990518116578</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2120938990518116578</guid>
+<pubDate>Thu, 12 Nov 2026 17:57:15 +0000</pubDate>
+<description>Use self-hosted Managed Agents for work that needs access to your code and internal systems, like fixing broken builds or triaging alerts.
+
+This private beta is only available to eligible orgs, and you can request access with your Anthropic account team.
+
+https://claude.com/resources/articles/self-hosted-claude-managed-agents</description>
+</item>
+<item>
+<title>@ClaudeDevs: Self-hosted Claude Managed Agents is now in private beta.</title>
+<link>https://x.com/ClaudeDevs/status/2120938988165091693</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2120938988165091693</guid>
+<pubDate>Thu, 12 Nov 2026 17:57:14 +0000</pubDate>
+<description>Self-hosted Claude Managed Agents is now in private beta.
+
+You can host the agent harness, sandboxes, and session history, in your own cloud or on-premises, and choose where requests to Claude are sent.</description>
+</item>
 <item>
 <title>Anthropic launches roadshow for proposed initial public offering</title>
 <link>https://www.anthropic.com/news/roadshow-launch</link>
@@ -339,19 +359,5 @@
 <guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
 <pubDate>Thu, 09 Jul 2026 23:55:00 +0000</pubDate>
 <description>UST will train 20,000 engineers on Claude and deploy it across semiconductor, automotive, IoT, healthcare, telecom, and banking workflows.</description>
-</item>
-<item>
-<title>Ben Bernanke joins the Long-Term Benefit Trust</title>
-<link>https://www.anthropic.com/news/ben-bernanke</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
-<pubDate>Thu, 09 Jul 2026 16:00:00 +0000</pubDate>
-<description>Former Federal Reserve Chair Ben Bernanke has been appointed to Anthropic's Long-Term Benefit Trust, bringing expertise on AI's economic impacts.</description>
-</item>
-<item>
-<title>Inviting hard questions</title>
-<link>https://www.anthropic.com/news/hard-questions</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/hard-questions</guid>
-<pubDate>Thu, 09 Jul 2026 16:00:00 +0000</pubDate>
-<description>We're asking the public for their hardest questions about AI, and committing to show our work as we address them.</description>
 </item>
 </channel></rss>
