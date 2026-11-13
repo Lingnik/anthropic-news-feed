@@ -3,7 +3,65 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Thu, 12 Nov 2026 19:30:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 22:51:04 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: Project settings and local folder access are simpler now too. It's all on web and desktop, and the…</title>
+<link>https://x.com/ClaudeDevs/status/2121375319227842597</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121375319227842597</guid>
+<pubDate>Fri, 13 Nov 2026 22:51:04 +0000</pubDate>
+<description>Project settings and local folder access are simpler now too. It's all on web and desktop, and the latest mobile app has the new design.
+
+Projects is in public beta on Pro and Max. If you don’t have it yet, you can join the waitlist!
+
+https://claude.com/form/projects</description>
+</item>
+<item>
+<title>@ClaudeDevs: Artifacts are easier to find again too.</title>
+<link>https://x.com/ClaudeDevs/status/2121375316618936407</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121375316618936407</guid>
+<pubDate>Fri, 13 Nov 2026 22:51:03 +0000</pubDate>
+<description>Artifacts are easier to find again too.
+
+The threads panel now has a row at the top with the ones you recently opened, updated, or pinned. Each thread also shows thumbnails of its own artifacts, which you can turn off in the view settings.</description>
+</item>
+<item>
+<title>@ClaudeDevs: /btw and /fork work in projects now too.</title>
+<link>https://x.com/ClaudeDevs/status/2121375311183163778</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121375311183163778</guid>
+<pubDate>Fri, 13 Nov 2026 22:51:02 +0000</pubDate>
+<description>/btw and /fork work in projects now too.
+
+If something else comes up while you're working, /btw gives it its own thread so your current one stays on topic.
+
+And if you want to try a different approach, /fork starts a new thread from the one you're in.</description>
+</item>
+<item>
+<title>@ClaudeDevs: You can also set a reminder on any thread, or just ask Claude to remind you.</title>
+<link>https://x.com/ClaudeDevs/status/2121375312965751211</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121375312965751211</guid>
+<pubDate>Fri, 13 Nov 2026 22:51:02 +0000</pubDate>
+<description>You can also set a reminder on any thread, or just ask Claude to remind you.
+
+The thread moves out of your way until then. When it's time, it moves back and Claude brings it up in the project chat.</description>
+</item>
+<item>
+<title>@ClaudeDevs: You can now share an individual thread as a read-only link with anyone who's signed in to Claude. </title>
+<link>https://x.com/ClaudeDevs/status/2121375314899296595</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121375314899296595</guid>
+<pubDate>Fri, 13 Nov 2026 22:51:02 +0000</pubDate>
+<description>You can now share an individual thread as a read-only link with anyone who's signed in to Claude. 
+
+Open the thread's menu and pick Share! Threads that had access to your computer can't be shared.</description>
+</item>
+<item>
+<title>@ClaudeDevs: We've made some big updates to Projects in Claude Code!</title>
+<link>https://x.com/ClaudeDevs/status/2121375309287301360</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121375309287301360</guid>
+<pubDate>Fri, 13 Nov 2026 22:51:01 +0000</pubDate>
+<description>We've made some big updates to Projects in Claude Code!
+
+In a project, Claude coordinates your tasks across parallel threads. The coordinator is now much more proactive. It answers your questions in the project chat and gives you updates on the status of your ongoing threads.</description>
+</item>
 <item>
 <title>@ClaudeDevs: Watch the full conversation:</title>
 <link>https://x.com/ClaudeDevs/status/2120962482584101217</link>
@@ -320,47 +378,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
 <pubDate>Mon, 27 Jul 2026 15:32:00 +0000</pubDate>
 <description>Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.</description>
-</item>
-<item>
-<title>Introducing Claude Opus 5</title>
-<link>https://www.anthropic.com/news/claude-opus-5</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
-<pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
-<description>Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
-</item>
-<item>
-<title>The Anthropic Economic Index connector</title>
-<link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/anthropic-economic-index-connector</guid>
-<pubDate>Wed, 22 Jul 2026 17:00:00 +0000</pubDate>
-<description>We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly.</description>
-</item>
-<item>
-<title>Economic Futures Research Fund agenda</title>
-<link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/economic-futures-research-fund-agenda</guid>
-<pubDate>Wed, 22 Jul 2026 17:00:00 +0000</pubDate>
-<description>We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research.</description>
-</item>
-<item>
-<title>Donating another $20 million to Public First Action</title>
-<link>https://www.anthropic.com/news/donation-public-first-action</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/donation-public-first-action</guid>
-<pubDate>Tue, 21 Jul 2026 17:00:00 +0000</pubDate>
-<description>Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million.</description>
-</item>
-<item>
-<title>AI for Science rare disease research grants</title>
-<link>https://www.anthropic.com/news/rare-disease-research-grants</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/rare-disease-research-grants</guid>
-<pubDate>Mon, 20 Jul 2026 17:00:00 +0000</pubDate>
-<description>Researchers can apply for up to $50,000 in Claude credits over six months to study rare genetic diseases as part of Anthropic's AI for Science program.</description>
-</item>
-<item>
-<title>Introducing Claude for Teachers</title>
-<link>https://www.anthropic.com/news/claude-for-teachers</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-for-teachers</guid>
-<pubDate>Tue, 14 Jul 2026 15:00:00 +0000</pubDate>
-<description>Verified US K-12 educators get free access to premium Claude capabilities, a teaching skills library, and standards-aligned curricula for all 50 states.</description>
 </item>
 </channel></rss>

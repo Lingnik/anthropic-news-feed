@@ -2,7 +2,7 @@
  "accounts": {
   "ClaudeDevs": {
    "failures": 0,
-   "max_id": "2120962482584101217"
+   "max_id": "2121375319227842597"
   }
  },
  "items": {
@@ -33,6 +33,48 @@
    "first_seen": "2026-11-12T19:49:47.089957+00:00",
    "published": "2026-11-12T19:30:36+00:00",
    "title": "@ClaudeDevs: Watch the full conversation:"
+  },
+  "https://x.com/ClaudeDevs/status/2121375309287301360": {
+   "account": "ClaudeDevs",
+   "description": "We've made some big updates to Projects in Claude Code!\n\nIn a project, Claude coordinates your tasks across parallel threads. The coordinator is now much more proactive. It answers your questions in the project chat and gives you updates on the status of your ongoing threads.",
+   "first_seen": "2026-11-13T23:19:50.193449+00:00",
+   "published": "2026-11-13T22:51:01+00:00",
+   "title": "@ClaudeDevs: We've made some big updates to Projects in Claude Code!"
+  },
+  "https://x.com/ClaudeDevs/status/2121375311183163778": {
+   "account": "ClaudeDevs",
+   "description": "/btw and /fork work in projects now too.\n\nIf something else comes up while you're working, /btw gives it its own thread so your current one stays on topic.\n\nAnd if you want to try a different approach, /fork starts a new thread from the one you're in.",
+   "first_seen": "2026-11-13T23:19:50.193449+00:00",
+   "published": "2026-11-13T22:51:02+00:00",
+   "title": "@ClaudeDevs: /btw and /fork work in projects now too."
+  },
+  "https://x.com/ClaudeDevs/status/2121375312965751211": {
+   "account": "ClaudeDevs",
+   "description": "You can also set a reminder on any thread, or just ask Claude to remind you.\n\nThe thread moves out of your way until then. When it's time, it moves back and Claude brings it up in the project chat.",
+   "first_seen": "2026-11-13T23:19:50.193449+00:00",
+   "published": "2026-11-13T22:51:02+00:00",
+   "title": "@ClaudeDevs: You can also set a reminder on any thread, or just ask Claude to remind you."
+  },
+  "https://x.com/ClaudeDevs/status/2121375314899296595": {
+   "account": "ClaudeDevs",
+   "description": "You can now share an individual thread as a read-only link with anyone who's signed in to Claude. \n\nOpen the thread's menu and pick Share! Threads that had access to your computer can't be shared.",
+   "first_seen": "2026-11-13T23:19:50.193449+00:00",
+   "published": "2026-11-13T22:51:02+00:00",
+   "title": "@ClaudeDevs: You can now share an individual thread as a read-only link with anyone who's signed in to Claude. "
+  },
+  "https://x.com/ClaudeDevs/status/2121375316618936407": {
+   "account": "ClaudeDevs",
+   "description": "Artifacts are easier to find again too.\n\nThe threads panel now has a row at the top with the ones you recently opened, updated, or pinned. Each thread also shows thumbnails of its own artifacts, which you can turn off in the view settings.",
+   "first_seen": "2026-11-13T23:19:50.193449+00:00",
+   "published": "2026-11-13T22:51:03+00:00",
+   "title": "@ClaudeDevs: Artifacts are easier to find again too."
+  },
+  "https://x.com/ClaudeDevs/status/2121375319227842597": {
+   "account": "ClaudeDevs",
+   "description": "Project settings and local folder access are simpler now too. It's all on web and desktop, and the latest mobile app has the new design.\n\nProjects is in public beta on Pro and Max. If you don’t have it yet, you can join the waitlist!\n\nhttps://claude.com/form/projects",
+   "first_seen": "2026-11-13T23:19:50.193449+00:00",
+   "published": "2026-11-13T22:51:04+00:00",
+   "title": "@ClaudeDevs: Project settings and local folder access are simpler now too. It's all on web and desktop, and the…"
   }
  }
 }
