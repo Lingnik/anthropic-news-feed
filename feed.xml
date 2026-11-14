@@ -3,7 +3,27 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Fri, 13 Nov 2026 22:51:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: Update to the latest version of the desktop app to try it. Themes work in local sessions in the des…</title>
+<link>https://x.com/ClaudeDevs/status/2121392667666125167</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121392667666125167</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<description>Update to the latest version of the desktop app to try it. Themes work in local sessions in the desktop app today, support for cloud sessions is coming soon.
+
+If you'd like to write one yourself, check out the docs:
+
+https://code.claude.com/docs/en/plugins/mods/interface#put-a-backdrop-behind-the-conversation</description>
+</item>
+<item>
+<title>@ClaudeDevs: You can now build custom themes for Claude Code on desktop with mods! Change the colors, add an ani…</title>
+<link>https://x.com/ClaudeDevs/status/2121392666244186327</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2121392666244186327</guid>
+<pubDate>Fri, 13 Nov 2026 23:59:59 +0000</pubDate>
+<description>You can now build custom themes for Claude Code on desktop with mods! Change the colors, add an animated background, and make it your own.
+
+Just tell Claude how you want it to look, or get started quickly with the theme-examples plugin. We'd love to see what you make!</description>
+</item>
 <item>
 <title>@ClaudeDevs: Project settings and local folder access are simpler now too. It's all on web and desktop, and the…</title>
 <link>https://x.com/ClaudeDevs/status/2121375319227842597</link>
@@ -364,19 +384,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
 <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
 <description>We found three cases where a Claude model reached the internet from an evaluation environment and accessed real systems. We share what happened and what we're changing.</description>
-</item>
-<item>
-<title>Our position on open-weights models</title>
-<link>https://www.anthropic.com/news/position-open-weights-models</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
-<pubDate>Mon, 27 Jul 2026 18:36:00 +0000</pubDate>
-<description>Anthropic CEO Dario Amodei on open-weights models</description>
-</item>
-<item>
-<title>Expanding our partnership with Cognizant</title>
-<link>https://www.anthropic.com/news/cognizant-anthropic</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
-<pubDate>Mon, 27 Jul 2026 15:32:00 +0000</pubDate>
-<description>Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.</description>
 </item>
 </channel></rss>

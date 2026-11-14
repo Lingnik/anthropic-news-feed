@@ -1,8 +1,8 @@
 {
  "accounts": {
   "ClaudeDevs": {
-   "failures": 3,
-   "max_id": "2121375319227842597"
+   "failures": 0,
+   "max_id": "2121392667666125167"
   }
  },
  "items": {
@@ -75,6 +75,20 @@
    "first_seen": "2026-11-13T23:19:50.193449+00:00",
    "published": "2026-11-13T22:51:04+00:00",
    "title": "@ClaudeDevs: Project settings and local folder access are simpler now too. It's all on web and desktop, and the…"
+  },
+  "https://x.com/ClaudeDevs/status/2121392666244186327": {
+   "account": "ClaudeDevs",
+   "description": "You can now build custom themes for Claude Code on desktop with mods! Change the colors, add an animated background, and make it your own.\n\nJust tell Claude how you want it to look, or get started quickly with the theme-examples plugin. We'd love to see what you make!",
+   "first_seen": "2026-11-14T01:19:38.149771+00:00",
+   "published": "2026-11-13T23:59:59+00:00",
+   "title": "@ClaudeDevs: You can now build custom themes for Claude Code on desktop with mods! Change the colors, add an ani…"
+  },
+  "https://x.com/ClaudeDevs/status/2121392667666125167": {
+   "account": "ClaudeDevs",
+   "description": "Update to the latest version of the desktop app to try it. Themes work in local sessions in the desktop app today, support for cloud sessions is coming soon.\n\nIf you'd like to write one yourself, check out the docs:\n\nhttps://code.claude.com/docs/en/plugins/mods/interface#put-a-backdrop-behind-the-conversation",
+   "first_seen": "2026-11-14T01:19:38.149771+00:00",
+   "published": "2026-11-14T00:00:00+00:00",
+   "title": "@ClaudeDevs: Update to the latest version of the desktop app to try it. Themes work in local sessions in the des…"
   }
  }
 }
