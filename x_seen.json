@@ -2,7 +2,7 @@
  "accounts": {
   "ClaudeDevs": {
    "failures": 0,
-   "max_id": "2121392667666125167"
+   "max_id": "2122439104419790958"
   }
  },
  "items": {
@@ -89,6 +89,27 @@
    "first_seen": "2026-11-14T01:19:38.149771+00:00",
    "published": "2026-11-14T00:00:00+00:00",
    "title": "@ClaudeDevs: Update to the latest version of the desktop app to try it. Themes work in local sessions in the des…"
+  },
+  "https://x.com/ClaudeDevs/status/2122439098740674839": {
+   "account": "ClaudeDevs",
+   "description": "Claude Code on desktop now supports iPhone Duo in the iOS simulator (public beta).\n\nYou can run your app on Duo next to your conversation and Claude can fold and unfold the device to test each layout.",
+   "first_seen": "2026-11-16T21:20:33.466493+00:00",
+   "published": "2026-11-16T21:18:08+00:00",
+   "title": "@ClaudeDevs: Claude Code on desktop now supports iPhone Duo in the iOS simulator (public beta)."
+  },
+  "https://x.com/ClaudeDevs/status/2122439102981390562": {
+   "account": "ClaudeDevs",
+   "description": "Available today in Claude Code on desktop (macOS, Xcode 27.1 or later).\n\nhttps://code.claude.com/docs/en/desktop-ios-simulator#test-your-app-on-an-iphone-duo",
+   "first_seen": "2026-11-16T21:20:33.466493+00:00",
+   "published": "2026-11-16T21:18:09+00:00",
+   "title": "@ClaudeDevs: Available today in Claude Code on desktop (macOS, Xcode 27.1 or later)."
+  },
+  "https://x.com/ClaudeDevs/status/2122439104419790958": {
+   "account": "ClaudeDevs",
+   "description": "Working in a terminal? The Xcode plugin is now in the official Claude Code plugin marketplace.\n\nClaude can use it to build, run, and test your app, render SwiftUI previews, and search developer docs.\n\n/plugin install xcode@claude-plugins-official",
+   "first_seen": "2026-11-16T21:20:33.466493+00:00",
+   "published": "2026-11-16T21:18:10+00:00",
+   "title": "@ClaudeDevs: Working in a terminal? The Xcode plugin is now in the official Claude Code plugin marketplace."
   }
  }
 }
