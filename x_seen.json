@@ -2,7 +2,7 @@
  "accounts": {
   "ClaudeDevs": {
    "failures": 0,
-   "max_id": "2122439104419790958"
+   "max_id": "2122457608963395586"
   }
  },
  "items": {
@@ -110,6 +110,13 @@
    "first_seen": "2026-11-16T21:20:33.466493+00:00",
    "published": "2026-11-16T21:18:10+00:00",
    "title": "@ClaudeDevs: Working in a terminal? The Xcode plugin is now in the official Claude Code plugin marketplace."
+  },
+  "https://x.com/ClaudeDevs/status/2122457608963395586": {
+   "account": "ClaudeDevs",
+   "description": "Claude writes better code when it can verify its work. Checks that used to be expensive, like tests, benchmarks, and end-to-end runs, are now cheap.\n\nHere’s how the Claude Code team thinks about verification:\nhttps://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "first_seen": "2026-11-16T22:49:48.506093+00:00",
+   "published": "2026-11-16T22:31:41+00:00",
+   "title": "@ClaudeDevs: Claude writes better code when it can verify its work. Checks that used to be expensive, like tests…"
   }
  }
 }
