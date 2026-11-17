@@ -3,7 +3,34 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Mon, 16 Nov 2026 22:31:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 18:00:54 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: Platforms can offer Claude without building their own metering or invoicing. They decide who pays o…</title>
+<link>https://x.com/ClaudeDevs/status/2122751848964841675</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2122751848964841675</guid>
+<pubDate>Tue, 17 Nov 2026 18:00:54 +0000</pubDate>
+<description>Platforms can offer Claude without building their own metering or invoicing. They decide who pays on each request and can understand usage by customer.
+
+Customers can draw down an existing Anthropic commitment or pay as they go, and see spend by platform.</description>
+</item>
+<item>
+<title>@ClaudeDevs: Linked billing is live today in beta with Asana, ClickHouse, Factory, Gumloop, Harness, Higgsfield…</title>
+<link>https://x.com/ClaudeDevs/status/2122751850265112746</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2122751850265112746</guid>
+<pubDate>Tue, 17 Nov 2026 18:00:54 +0000</pubDate>
+<description>Linked billing is live today in beta with Asana, ClickHouse, Factory, Gumloop, Harness, Higgsfield AI, Kilo Code, Linear, Major, Mintlify, Niteshift, Omni, OpenArt, Railway, Ramp, Runlayer, Tessera, Tines and Warp.
+
+To add support or learn more: https://claude.com/blog/linked-billing-on-claude-platform</description>
+</item>
+<item>
+<title>@ClaudeDevs: Linked billing is now in beta on the Claude Platform.</title>
+<link>https://x.com/ClaudeDevs/status/2122751844455956760</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2122751844455956760</guid>
+<pubDate>Tue, 17 Nov 2026 18:00:53 +0000</pubDate>
+<description>Linked billing is now in beta on the Claude Platform.
+
+Now users of tools like Factory, Linear, and Ramp can pay for Claude API usage through their Claude Platform organization, without sharing an API key.</description>
+</item>
 <item>
 <title>@ClaudeDevs: Claude writes better code when it can verify its work. Checks that used to be expensive, like tests…</title>
 <link>https://x.com/ClaudeDevs/status/2122457608963395586</link>
@@ -374,26 +401,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
 <pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
 <description>On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.</description>
-</item>
-<item>
-<title>Previewing the Model Hardware Standard</title>
-<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
-<pubDate>Thu, 27 Aug 2026 18:00:00 +0000</pubDate>
-<description>Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</description>
-</item>
-<item>
-<title>Expanding our support for scientists</title>
-<link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
-<pubDate>Thu, 27 Aug 2026 17:03:00 +0000</pubDate>
-<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-</item>
-<item>
-<title>Funding better evaluations of AI’s impact on wellbeing</title>
-<link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
-<pubDate>Tue, 25 Aug 2026 17:00:00 +0000</pubDate>
-<description>Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.</description>
 </item>
 </channel></rss>

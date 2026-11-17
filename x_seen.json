@@ -1,8 +1,8 @@
 {
  "accounts": {
   "ClaudeDevs": {
-   "failures": 2,
-   "max_id": "2122457608963395586"
+   "failures": 0,
+   "max_id": "2122751850265112746"
   }
  },
  "items": {
@@ -117,6 +117,27 @@
    "first_seen": "2026-11-16T22:49:48.506093+00:00",
    "published": "2026-11-16T22:31:41+00:00",
    "title": "@ClaudeDevs: Claude writes better code when it can verify its work. Checks that used to be expensive, like tests…"
+  },
+  "https://x.com/ClaudeDevs/status/2122751844455956760": {
+   "account": "ClaudeDevs",
+   "description": "Linked billing is now in beta on the Claude Platform.\n\nNow users of tools like Factory, Linear, and Ramp can pay for Claude API usage through their Claude Platform organization, without sharing an API key.",
+   "first_seen": "2026-11-17T18:22:59.854377+00:00",
+   "published": "2026-11-17T18:00:53+00:00",
+   "title": "@ClaudeDevs: Linked billing is now in beta on the Claude Platform."
+  },
+  "https://x.com/ClaudeDevs/status/2122751848964841675": {
+   "account": "ClaudeDevs",
+   "description": "Platforms can offer Claude without building their own metering or invoicing. They decide who pays on each request and can understand usage by customer.\n\nCustomers can draw down an existing Anthropic commitment or pay as they go, and see spend by platform.",
+   "first_seen": "2026-11-17T18:22:59.854377+00:00",
+   "published": "2026-11-17T18:00:54+00:00",
+   "title": "@ClaudeDevs: Platforms can offer Claude without building their own metering or invoicing. They decide who pays o…"
+  },
+  "https://x.com/ClaudeDevs/status/2122751850265112746": {
+   "account": "ClaudeDevs",
+   "description": "Linked billing is live today in beta with Asana, ClickHouse, Factory, Gumloop, Harness, Higgsfield AI, Kilo Code, Linear, Major, Mintlify, Niteshift, Omni, OpenArt, Railway, Ramp, Runlayer, Tessera, Tines and Warp.\n\nTo add support or learn more: https://claude.com/blog/linked-billing-on-claude-platform",
+   "first_seen": "2026-11-17T18:22:59.854377+00:00",
+   "published": "2026-11-17T18:00:54+00:00",
+   "title": "@ClaudeDevs: Linked billing is live today in beta with Asana, ClickHouse, Factory, Gumloop, Harness, Higgsfield…"
   }
  }
 }
