@@ -2,7 +2,7 @@
  "accounts": {
   "ClaudeDevs": {
    "failures": 0,
-   "max_id": "2122801681939234950"
+   "max_id": "2122821051910684824"
   }
  },
  "items": {
@@ -145,6 +145,13 @@
    "first_seen": "2026-11-17T21:50:01.046592+00:00",
    "published": "2026-11-17T21:18:55+00:00",
    "title": "@ClaudeDevs: Check out Code Mode, a new, experimental way for Claude Code to work with tools. Claude writes scri…"
+  },
+  "https://x.com/ClaudeDevs/status/2122821051910684824": {
+   "account": "ClaudeDevs",
+   "description": "You can now opt into more frequent builds of Claude Desktop on Windows and Mac.\n\nSwitch to the Latest release channel in Settings > Desktop app. You'll get fixes and improvements faster, but these builds can be less reliable than Stable, which stays the default.",
+   "first_seen": "2026-11-17T22:49:47.210300+00:00",
+   "published": "2026-11-17T22:35:53+00:00",
+   "title": "@ClaudeDevs: You can now opt into more frequent builds of Claude Desktop on Windows and Mac."
   }
  }
 }
