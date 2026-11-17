@@ -3,7 +3,16 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Tue, 17 Nov 2026 18:00:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 21:18:55 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: Check out Code Mode, a new, experimental way for Claude Code to work with tools. Claude writes scri…</title>
+<link>https://x.com/ClaudeDevs/status/2122801681939234950</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2122801681939234950</guid>
+<pubDate>Tue, 17 Nov 2026 21:18:55 +0000</pubDate>
+<description>Check out Code Mode, a new, experimental way for Claude Code to work with tools. Claude writes scripts that chain your tools together in sophisticated ways, and it can answer you while long commands are still running. 
+
+Opt in with CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 http://code.claude.com/docs/en/code-mode</description>
+</item>
 <item>
 <title>@ClaudeDevs: Platforms can offer Claude without building their own metering or invoicing. They decide who pays o…</title>
 <link>https://x.com/ClaudeDevs/status/2122751848964841675</link>
@@ -394,12 +403,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
 <pubDate>Tue, 01 Sep 2026 23:31:00 +0000</pubDate>
 <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-</item>
-<item>
-<title>Improving our alignment and security practices</title>
-<link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
-<pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
-<description>On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.</description>
 </item>
 </channel></rss>

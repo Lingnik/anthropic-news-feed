@@ -1,8 +1,8 @@
 {
  "accounts": {
   "ClaudeDevs": {
-   "failures": 2,
-   "max_id": "2122751850265112746"
+   "failures": 0,
+   "max_id": "2122801681939234950"
   }
  },
  "items": {
@@ -138,6 +138,13 @@
    "first_seen": "2026-11-17T18:22:59.854377+00:00",
    "published": "2026-11-17T18:00:54+00:00",
    "title": "@ClaudeDevs: Linked billing is live today in beta with Asana, ClickHouse, Factory, Gumloop, Harness, Higgsfield…"
+  },
+  "https://x.com/ClaudeDevs/status/2122801681939234950": {
+   "account": "ClaudeDevs",
+   "description": "Check out Code Mode, a new, experimental way for Claude Code to work with tools. Claude writes scripts that chain your tools together in sophisticated ways, and it can answer you while long commands are still running. \n\nOpt in with CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 http://code.claude.com/docs/en/code-mode",
+   "first_seen": "2026-11-17T21:50:01.046592+00:00",
+   "published": "2026-11-17T21:18:55+00:00",
+   "title": "@ClaudeDevs: Check out Code Mode, a new, experimental way for Claude Code to work with tools. Claude writes scri…"
   }
  }
 }
