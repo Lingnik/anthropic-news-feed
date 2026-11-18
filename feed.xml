@@ -3,7 +3,14 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Tue, 17 Nov 2026 22:35:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Anthropic prices initial public offering</title>
+<link>https://www.anthropic.com/news/anthropic-prices-initial-public-offering</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/anthropic-prices-initial-public-offering</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<description>Today Anthropic, PBC priced its initial public offering of its Class A common stock.</description>
+</item>
 <item>
 <title>@ClaudeDevs: You can now opt into more frequent builds of Claude Desktop on Windows and Mac.</title>
 <link>https://x.com/ClaudeDevs/status/2122821051910684824</link>
@@ -398,12 +405,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
 <pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
 <description>We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</description>
-</item>
-<item>
-<title>Introducing the Life Sciences Verification Program</title>
-<link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
-<pubDate>Thu, 17 Sep 2026 15:56:00 +0000</pubDate>
-<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
 </item>
 </channel></rss>
