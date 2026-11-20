@@ -1181,6 +1181,12 @@
   "published": "2025-07-15T11:30:00.000Z",
   "title": "Investing in energy to secure America's AI future"
  },
+ "https://www.anthropic.com/news/ipo-close": {
+  "description": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
+  "first_seen": "2026-11-20T12:49:41.209661+00:00",
+  "published": "2026-11-20T00:00:00.000Z",
+  "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters\u2019 option to purchase additional shares, and closing of concurrent private placement"
+ },
  "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors": {
   "description": "Today, we're announcing that Jay Kreps, co-founder and CEO of Confluent, has joined Anthropic's Board of Directors. Jay's extensive experience in building and scaling highly successful tech companies will play an important role as Anthropic prepares for the next phase of growth.",
   "first_seen": "2026-10-13T19:38:22.953414+00:00",
