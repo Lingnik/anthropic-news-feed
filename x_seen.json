@@ -2,7 +2,7 @@
  "accounts": {
   "ClaudeDevs": {
    "failures": 0,
-   "max_id": "2122821051910684824"
+   "max_id": "2124930255777591454"
   }
  },
  "items": {
@@ -152,6 +152,20 @@
    "first_seen": "2026-11-17T22:49:47.210300+00:00",
    "published": "2026-11-17T22:35:53+00:00",
    "title": "@ClaudeDevs: You can now opt into more frequent builds of Claude Desktop on Windows and Mac."
+  },
+  "https://x.com/ClaudeDevs/status/2124930253344948518": {
+   "account": "ClaudeDevs",
+   "description": "Zero data retention with Enterprise Frontier Safeguards is now in public beta for eligible orgs on the Claude Platform.\n\nEncrypted copies of your Messages API traffic go to your own cloud storage. Automated checks look for misuse and flag serious risks for your team to review.",
+   "first_seen": "2026-11-23T18:22:21.576737+00:00",
+   "published": "2026-11-23T18:17:06+00:00",
+   "title": "@ClaudeDevs: Zero data retention with Enterprise Frontier Safeguards is now in public beta for eligible orgs on…"
+  },
+  "https://x.com/ClaudeDevs/status/2124930255777591454": {
+   "account": "ClaudeDevs",
+   "description": "You can turn it on per workspace in the Claude Console. It covers every Messages API request in that workspace, on any model.\n\nDocs: https://platform.claude.com/docs/en/manage-claude/enterprise-frontier-safeguards/overview",
+   "first_seen": "2026-11-23T18:22:21.576737+00:00",
+   "published": "2026-11-23T18:17:06+00:00",
+   "title": "@ClaudeDevs: You can turn it on per workspace in the Claude Console. It covers every Messages API request in tha…"
   }
  }
 }
