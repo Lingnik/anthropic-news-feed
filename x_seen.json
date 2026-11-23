@@ -2,7 +2,7 @@
  "accounts": {
   "ClaudeDevs": {
    "failures": 0,
-   "max_id": "2124930255777591454"
+   "max_id": "2124959440772137337"
   }
  },
  "items": {
@@ -166,6 +166,27 @@
    "first_seen": "2026-11-23T18:22:21.576737+00:00",
    "published": "2026-11-23T18:17:06+00:00",
    "title": "@ClaudeDevs: You can turn it on per workspace in the Claude Console. It covers every Messages API request in tha…"
+  },
+  "https://x.com/ClaudeDevs/status/2124959436640858475": {
+   "account": "ClaudeDevs",
+   "description": "Introducing Claude Ship (beta): Claude can review your pull requests, work on fixes, and approve the ones your team's policy allows.\n\nThe goal is to help you ship code as fast as you can write it.",
+   "first_seen": "2026-11-23T20:20:06.097044+00:00",
+   "published": "2026-11-23T20:13:04+00:00",
+   "title": "@ClaudeDevs: Introducing Claude Ship (beta): Claude can review your pull requests, work on fixes, and approve th…"
+  },
+  "https://x.com/ClaudeDevs/status/2124959438175981965": {
+   "account": "ClaudeDevs",
+   "description": "Try it on your next PR: update Claude Code and run /ship. It's rolling out in the CLI and desktop app now.\n\nClaude opens the PR, reviews your change, and works on feedback and failing checks. Your permissions and branch rules still decide what can merge.",
+   "first_seen": "2026-11-23T20:20:06.097044+00:00",
+   "published": "2026-11-23T20:13:04+00:00",
+   "title": "@ClaudeDevs: Try it on your next PR: update Claude Code and run /ship. It's rolling out in the CLI and desktop a…"
+  },
+  "https://x.com/ClaudeDevs/status/2124959440772137337": {
+   "account": "ClaudeDevs",
+   "description": "On Team and Enterprise, admins can turn it on for a whole repo, so it runs on your team's PRs with no /ship needed. Your approval policy lives in the repo like a smarter CODEOWNERS file.\n\nRead more: https://claude.com/resources/articles/introducing-claude-ship",
+   "first_seen": "2026-11-23T20:20:06.097044+00:00",
+   "published": "2026-11-23T20:13:05+00:00",
+   "title": "@ClaudeDevs: On Team and Enterprise, admins can turn it on for a whole repo, so it runs on your team's PRs with…"
   }
  }
 }

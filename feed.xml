@@ -3,7 +3,34 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Mon, 23 Nov 2026 18:17:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 20:13:05 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: On Team and Enterprise, admins can turn it on for a whole repo, so it runs on your team's PRs with…</title>
+<link>https://x.com/ClaudeDevs/status/2124959440772137337</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2124959440772137337</guid>
+<pubDate>Mon, 23 Nov 2026 20:13:05 +0000</pubDate>
+<description>On Team and Enterprise, admins can turn it on for a whole repo, so it runs on your team's PRs with no /ship needed. Your approval policy lives in the repo like a smarter CODEOWNERS file.
+
+Read more: https://claude.com/resources/articles/introducing-claude-ship</description>
+</item>
+<item>
+<title>@ClaudeDevs: Introducing Claude Ship (beta): Claude can review your pull requests, work on fixes, and approve th…</title>
+<link>https://x.com/ClaudeDevs/status/2124959436640858475</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2124959436640858475</guid>
+<pubDate>Mon, 23 Nov 2026 20:13:04 +0000</pubDate>
+<description>Introducing Claude Ship (beta): Claude can review your pull requests, work on fixes, and approve the ones your team's policy allows.
+
+The goal is to help you ship code as fast as you can write it.</description>
+</item>
+<item>
+<title>@ClaudeDevs: Try it on your next PR: update Claude Code and run /ship. It's rolling out in the CLI and desktop a…</title>
+<link>https://x.com/ClaudeDevs/status/2124959438175981965</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2124959438175981965</guid>
+<pubDate>Mon, 23 Nov 2026 20:13:04 +0000</pubDate>
+<description>Try it on your next PR: update Claude Code and run /ship. It's rolling out in the CLI and desktop app now.
+
+Claude opens the PR, reviews your change, and works on feedback and failing checks. Your permissions and branch rules still decide what can merge.</description>
+</item>
 <item>
 <title>@ClaudeDevs: Zero data retention with Enterprise Frontier Safeguards is now in public beta for eligible orgs on…</title>
 <link>https://x.com/ClaudeDevs/status/2124930253344948518</link>
@@ -388,26 +415,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
 <pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
 <description>Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.</description>
-</item>
-<item>
-<title>Introducing the Anthropic Cyber Mission</title>
-<link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
-<pubDate>Thu, 08 Oct 2026 09:04:16 +0000</pubDate>
-<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-</item>
-<item>
-<title>Expanding the Cyber Verification Program</title>
-<link>https://www.anthropic.com/news/cyber-verification-program</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-<pubDate>Tue, 06 Oct 2026 19:00:00 +0000</pubDate>
-<description>We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
-</item>
-<item>
-<title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
-<link>https://www.anthropic.com/news/claude-frontier-academy</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-frontier-academy</guid>
-<pubDate>Fri, 02 Oct 2026 23:01:00 +0000</pubDate>
-<description>Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.</description>
 </item>
 </channel></rss>
