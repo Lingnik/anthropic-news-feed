@@ -3,7 +3,18 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Mon, 23 Nov 2026 20:13:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 21:30:01 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: We've redesigned the side panel in Claude Code on desktop.</title>
+<link>https://x.com/ClaudeDevs/status/2124978802006851961</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2124978802006851961</guid>
+<pubDate>Mon, 23 Nov 2026 21:30:01 +0000</pubDate>
+<description>We've redesigned the side panel in Claude Code on desktop.
+
+Files, Changes, Terminal and your other tools now open as tabs beside your session. You can still move a tab to see several at once, or pop it out into its own window.
+
+Rolling out on Mac. Windows and Linux coming soon!</description>
+</item>
 <item>
 <title>@ClaudeDevs: On Team and Enterprise, admins can turn it on for a whole repo, so it runs on your team's PRs with…</title>
 <link>https://x.com/ClaudeDevs/status/2124959440772137337</link>
@@ -408,12 +419,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
 <pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
 <description>We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.</description>
-</item>
-<item>
-<title>Building on our commitment to American scientific discovery</title>
-<link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
-<pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
-<description>Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.</description>
 </item>
 </channel></rss>

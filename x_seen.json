@@ -1,8 +1,8 @@
 {
  "accounts": {
   "ClaudeDevs": {
-   "failures": 1,
-   "max_id": "2124959440772137337"
+   "failures": 0,
+   "max_id": "2124978802006851961"
   }
  },
  "items": {
@@ -187,6 +187,13 @@
    "first_seen": "2026-11-23T20:20:06.097044+00:00",
    "published": "2026-11-23T20:13:05+00:00",
    "title": "@ClaudeDevs: On Team and Enterprise, admins can turn it on for a whole repo, so it runs on your team's PRs with…"
+  },
+  "https://x.com/ClaudeDevs/status/2124978802006851961": {
+   "account": "ClaudeDevs",
+   "description": "We've redesigned the side panel in Claude Code on desktop.\n\nFiles, Changes, Terminal and your other tools now open as tabs beside your session. You can still move a tab to see several at once, or pop it out into its own window.\n\nRolling out on Mac. Windows and Linux coming soon!",
+   "first_seen": "2026-11-23T22:20:12.094538+00:00",
+   "published": "2026-11-23T21:30:01+00:00",
+   "title": "@ClaudeDevs: We've redesigned the side panel in Claude Code on desktop."
   }
  }
 }
