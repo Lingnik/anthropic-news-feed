@@ -1,8 +1,8 @@
 {
  "accounts": {
   "ClaudeDevs": {
-   "failures": 2,
-   "max_id": "2125315493771059685"
+   "failures": 0,
+   "max_id": "2125365668463993091"
   }
  },
  "items": {
@@ -236,6 +236,13 @@
    "first_seen": "2026-11-24T20:19:53.020128+00:00",
    "published": "2026-11-24T19:47:54+00:00",
    "title": "@ClaudeDevs: You don't have to package or sign the app, or set up an API key. Building the app and any calls it…"
+  },
+  "https://x.com/ClaudeDevs/status/2125365668463993091": {
+   "account": "ClaudeDevs",
+   "description": "A practical guide to shipping with Claude Code: how to hand off PR follow-up work to Claude Ship and stay in flow.\n\nhttps://claude.dev/blog/the-work-after-you-open-a-pr/",
+   "first_seen": "2026-11-24T23:20:04.029558+00:00",
+   "published": "2026-11-24T23:07:17+00:00",
+   "title": "@ClaudeDevs: A practical guide to shipping with Claude Code: how to hand off PR follow-up work to Claude Ship an…"
   }
  }
 }

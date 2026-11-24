@@ -3,7 +3,16 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Tue, 24 Nov 2026 19:47:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 23:07:17 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: A practical guide to shipping with Claude Code: how to hand off PR follow-up work to Claude Ship an…</title>
+<link>https://x.com/ClaudeDevs/status/2125365668463993091</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2125365668463993091</guid>
+<pubDate>Tue, 24 Nov 2026 23:07:17 +0000</pubDate>
+<description>A practical guide to shipping with Claude Code: how to hand off PR follow-up work to Claude Ship and stay in flow.
+
+https://claude.dev/blog/the-work-after-you-open-a-pr/</description>
+</item>
 <item>
 <title>@ClaudeDevs: You can now install Claude artifacts as desktop apps on Mac and Windows.</title>
 <link>https://x.com/ClaudeDevs/status/2125315491522650299</link>
@@ -427,13 +436,6 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <title>Safeguards</title>
 <link>https://www.anthropic.com/news/safeguards</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/safeguards</guid>
-<pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
-<description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-</item>
-<item>
-<title>Security</title>
-<link>https://www.anthropic.com/news/security</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/security</guid>
 <pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
 <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
 </item>
