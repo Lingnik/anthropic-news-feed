@@ -3,7 +3,47 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Mon, 23 Nov 2026 21:30:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 18:08:15 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: Today's launches build on recent updates that make MCP in Claude more token efficient, easier to au…</title>
+<link>https://x.com/ClaudeDevs/status/2125290412713676882</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2125290412713676882</guid>
+<pubDate>Tue, 24 Nov 2026 18:08:15 +0000</pubDate>
+<description>Today's launches build on recent updates that make MCP in Claude more token efficient, easier to authorize, and more interactive.
+
+Thanks to the community, Claude now has over 10,000 MCP connectors.
+
+Read more: https://claude.com/blog/skills-over-mcp-tasks-and-more</description>
+</item>
+<item>
+<title>@ClaudeDevs: With Tasks (GA), servers can run long operations or full agent loops while Claude keeps working and…</title>
+<link>https://x.com/ClaudeDevs/status/2125290306539253760</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2125290306539253760</guid>
+<pubDate>Tue, 24 Nov 2026 18:07:49 +0000</pubDate>
+<description>With Tasks (GA), servers can run long operations or full agent loops while Claude keeps working and picks up the result when it's ready.
+
+File Uploads is also rolling out soon. Claude will be able to send PDFs, spreadsheets, and images to a server without passing them through the context window.</description>
+</item>
+<item>
+<title>@ClaudeDevs: MCP turns two! What started as a protocol for connecting AI apps to tools and data is evolving to s…</title>
+<link>https://x.com/ClaudeDevs/status/2125289794871963935</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2125289794871963935</guid>
+<pubDate>Tue, 24 Nov 2026 18:05:47 +0000</pubDate>
+<description>MCP turns two! What started as a protocol for connecting AI apps to tools and data is evolving to standardize how agents communicate and orchestrate work.
+
+We’re bringing more of these agentic capabilities to Claude with Skills over MCP and Tasks.</description>
+</item>
+<item>
+<title>@ClaudeDevs: Claude Managed Agents is our platform for developers to build agents that are intelligent and secur…</title>
+<link>https://x.com/ClaudeDevs/status/2125277263314792687</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2125277263314792687</guid>
+<pubDate>Tue, 24 Nov 2026 17:15:59 +0000</pubDate>
+<description>Claude Managed Agents is our platform for developers to build agents that are intelligent and secure.
+
+@jess__yan, @_hi_mc, and @RLanceMartin tell the product iteration story of how we redesigned its architecture.
+
+Watch the full conversation: https://youtu.be/8Aoq6mJeAXI</description>
+</item>
 <item>
 <title>@ClaudeDevs: We've redesigned the side panel in Claude Code on desktop.</title>
 <link>https://x.com/ClaudeDevs/status/2124978802006851961</link>
@@ -391,33 +431,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
 <pubDate>Thu, 15 Oct 2026 17:20:00 +0000</pubDate>
 <description>Anthropic announces updates to embedding independent evaluators</description>
-</item>
-<item>
-<title>Preparing for the 2026 US midterms</title>
-<link>https://www.anthropic.com/news/2026-us-midterms</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
-<pubDate>Wed, 14 Oct 2026 18:33:00 +0000</pubDate>
-<description>Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.</description>
-</item>
-<item>
-<title>Singapore office and government MOU | Anthropic</title>
-<link>https://www.anthropic.com/news/singapore-office-opening</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
-<pubDate>Wed, 14 Oct 2026 08:30:00 +0000</pubDate>
-<description>Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.</description>
-</item>
-<item>
-<title>Strengthening our defenses against distillation attacks</title>
-<link>https://www.anthropic.com/news/distillation-defenses</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<description>Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.</description>
-</item>
-<item>
-<title>2026 Usage Policy update</title>
-<link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
-<pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
-<description>We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.</description>
 </item>
 </channel></rss>
