@@ -3,7 +3,26 @@
 <title>Anthropic News</title>
 <link>https://www.anthropic.com/news/</link>
 <description>Posts from anthropic.com/news, built from the site's sitemap, and from the X accounts in x-accounts.txt. Unofficial.</description>
-<lastBuildDate>Tue, 24 Nov 2026 18:08:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 19:47:54 +0000</lastBuildDate>
+<item>
+<title>@ClaudeDevs: You can now install Claude artifacts as desktop apps on Mac and Windows.</title>
+<link>https://x.com/ClaudeDevs/status/2125315491522650299</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2125315491522650299</guid>
+<pubDate>Tue, 24 Nov 2026 19:47:54 +0000</pubDate>
+<description>You can now install Claude artifacts as desktop apps on Mac and Windows.
+
+Ask Claude to build an artifact, click "Install as app", and open it like any other app. It can use your connectors and, if you allow it, send notifications or add a menu bar item.</description>
+</item>
+<item>
+<title>@ClaudeDevs: You don't have to package or sign the app, or set up an API key. Building the app and any calls it…</title>
+<link>https://x.com/ClaudeDevs/status/2125315493771059685</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2125315493771059685</guid>
+<pubDate>Tue, 24 Nov 2026 19:47:54 +0000</pubDate>
+<description>You don't have to package or sign the app, or set up an API key. Building the app and any calls it makes to Claude count toward your usage limits.
+
+It's in beta on all plans in Claude Desktop (on Enterprise, an owner needs to switch it on first).
+https://claude.com/resources/articles/install-as-app</description>
+</item>
 <item>
 <title>@ClaudeDevs: Today's launches build on recent updates that make MCP in Claude more token efficient, easier to au…</title>
 <link>https://x.com/ClaudeDevs/status/2125290412713676882</link>
@@ -417,19 +436,5 @@ You can host the agent harness, sandboxes, and session history, in your own clou
 <guid isPermaLink="true">https://www.anthropic.com/news/security</guid>
 <pubDate>Tue, 20 Oct 2026 17:26:10 +0000</pubDate>
 <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-</item>
-<item>
-<title>Investing in the public benefit</title>
-<link>https://www.anthropic.com/news/public-benefit-fund</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-<pubDate>Sun, 18 Oct 2026 16:49:35 +0000</pubDate>
-<description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
-</item>
-<item>
-<title>Anthropic update on independent evaluators</title>
-<link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
-<pubDate>Thu, 15 Oct 2026 17:20:00 +0000</pubDate>
-<description>Anthropic announces updates to embedding independent evaluators</description>
 </item>
 </channel></rss>
