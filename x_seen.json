@@ -1,8 +1,8 @@
 {
  "accounts": {
   "ClaudeDevs": {
-   "failures": 3,
-   "max_id": "2125365668463993091"
+   "failures": 0,
+   "max_id": "2125628717263372512"
   }
  },
  "items": {
@@ -243,6 +243,13 @@
    "first_seen": "2026-11-24T23:20:04.029558+00:00",
    "published": "2026-11-24T23:07:17+00:00",
    "title": "@ClaudeDevs: A practical guide to shipping with Claude Code: how to hand off PR follow-up work to Claude Ship an…"
+  },
+  "https://x.com/ClaudeDevs/status/2125628717263372512": {
+   "account": "ClaudeDevs",
+   "description": "Our new engineering blog shares how we migrated the Claude Messages API from Python to Rust. \n\nWe share how we used the existing Python service to verify the migration, with teams of agents tracking down and fixing differences between the two versions.\n\nhttps://x.com/AnthropicAI/status/2125627317263466739?a=cMWx_Moml5Tb3-Enk4A&s=20",
+   "first_seen": "2026-11-25T18:22:06.489294+00:00",
+   "published": "2026-11-25T16:32:33+00:00",
+   "title": "@ClaudeDevs: Our new engineering blog shares how we migrated the Claude Messages API from Python to Rust. "
   }
  }
 }
